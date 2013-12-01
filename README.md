@@ -9,3 +9,6 @@ base 64 library
 
 + (NSData *)  base64DataFromString:(NSString *)string;
 ```
+
+More info here: 
+http://goo.gl/TphMlA
